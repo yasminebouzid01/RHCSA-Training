@@ -1,5 +1,9 @@
 # Formation RHCSA  
-![Logo Red Hat](image/image.png)
+
+
+<p align="center">
+  <img src="image/image.png " width="180">
+</p>
 
 ## Introduction
 👋 Bienvenue dans cette formation dédiée à **l’administration des systèmes Red Hat Enterprise Linux**.  
