@@ -69,6 +69,6 @@ crontab -e -u natasha
 */2  * * * 1-5  logger “Examen EX200 en cours”
 ```
 
-<p style="text-align: right;">
-  <a href="https://github.com/halekammoun/RHCSA-Training/blob/main/README.md#table-des-matieres">Back to Table of Contents</a>
+<p align="right">
+  <a href="https://github.com/yasminebouzid01/RHCSA-Training/tree/main">Back to Table of Contents</a>
 </p>
