@@ -66,19 +66,16 @@ Ce cours est conçu pour vous **préparer à la certification RHCSA (Red Hat Cer
 
 ## 📚 Sommaire de la formation
 
-1. Installation de Red Hat Enterprise Linux et enregistrement  
-2. Commandes de base et scripts Shell  
-3. Gestion des utilisateurs et des groupes  
-4. Automatisation des tâches  
-5. Gestion des services  
-6. Archivage et compression  
-7. NFS et AutoFS  
-8. Gestion du stockage  
-9. Gestion des conteneurs  
-10. Dépôts BaseOS et AppStream  
-11. Réseau  
-12. Réinitialisation du mot de passe root  
+1. [Installation de Red Hat Enterprise Linux & Enregistrement](01-installation-and-registration.md)
+2. [Commandes de base & Scripts Shell](02-basic-commands-and-shell-scripts.md)
+3. [Gestion des utilisateurs et des groupes](03-user-and-group-management.md)
+4. [Automatisation des tâches](04-task-automation.md)
+5. [Gestion des services](05-service-management.md)
+6. [Archivage et compression](06-archiving-and-compression.md)
+7. [NFS & AutoFS](07-nfs-autofs.md)
+8. [Gestion du stockage](08-storage-management.md)
+9. [Gestion des conteneurs](09-container-management.md)
+10. [Dépôts BaseOS & AppStream](10-baseos-appstream-repositories.md)
+11. [Réseau](11-networking.md)
+12. [Réinitialisation du mot de passe root](12-root-password-reset.md)
 
----
-
-🚀 **Rejoignez cette formation et devenez Administrateur Système certifié Red Hat !**
