@@ -41,5 +41,5 @@ subscription-manager register
 ```
 
 <p align="right">
-  <a href="https://github.com/halekammoun/RHCSA-Training/blob/main/README.md#table-des-matieres">Back to Table of Contents</a>
+  <a href="https://github.com/yasminebouzid01/RHCSA-Training/tree/main">Back to Table of Contents</a>
 </p>
