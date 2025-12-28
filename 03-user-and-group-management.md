@@ -279,3 +279,6 @@ umask 202
 Q14. Lock user foulen1:
 usermod -L foulen1
 ```
+<p align="right">
+  <a href="https://github.com/yasminebouzid01/RHCSA-Training/tree/main">Back to Table of Contents</a>
+</p>
