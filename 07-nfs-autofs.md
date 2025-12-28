@@ -152,8 +152,4 @@ echo “/remoteuser		/etc/auto.misc” >> /etc/auto.master
 echo “user20 -rw  192.168.0.24:/remoteuser/user20” >> /etc/auto.misc  
 systemctl restart autofs
 
----
 
-<p align="right">
-  <a href="https://github.com/yasminebouzid01/RHCSA-Training/tree/main">Back to Table of Contents</a>
-</p>
