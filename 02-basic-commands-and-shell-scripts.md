@@ -248,3 +248,6 @@ logger “user $name executed the greeting script”
 bash greeting.sh
 journalctl | grep user
 ```
+<p align="right">
+  <a href="https://github.com/yasminebouzid01/RHCSA-Training/tree/main">Back to Table of Contents</a>
+</p>
