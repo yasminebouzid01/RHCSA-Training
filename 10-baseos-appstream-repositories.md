@@ -33,4 +33,6 @@ rm -rf /etc/yum.repos.d/*
 reset the machine
 subscription-manager refresh
 ```
-
+<p align="right">
+  <a href="https://github.com/yasminebouzid01/RHCSA-Training/tree/main">Back to Table of Contents</a>
+</p>
