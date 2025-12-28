@@ -4,7 +4,7 @@
 ## Introduction
 
 👋 In this section, we will explore some basic commands and essential shell scripts for certification.
-![tree](image/image2)
+![tree](image/image2.gif)
 
 ## Basic Commands
 
